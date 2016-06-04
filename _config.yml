@@ -1,0 +1,29 @@
+name: We Need More Eddies
+favicon: null
+layout_spectrum: 0.004853826016187668
+typography_spectrum: 0.5303914693649858
+title: We Need More Eddies
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7572281556203961
+  lightness: 0.7757664108648896
+  saturation: 0.1040731065440923
+  rhythmicContrast: 0.5043312541674823
+purpose: []
